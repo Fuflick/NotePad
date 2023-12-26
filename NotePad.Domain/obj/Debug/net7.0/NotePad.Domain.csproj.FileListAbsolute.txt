@@ -1,0 +1,11 @@
+C:\Code\CSharp\NotePad\NotePad.Domain\bin\Debug\net7.0\NotePad.Domain.deps.json
+C:\Code\CSharp\NotePad\NotePad.Domain\bin\Debug\net7.0\NotePad.Domain.dll
+C:\Code\CSharp\NotePad\NotePad.Domain\bin\Debug\net7.0\NotePad.Domain.pdb
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.AssemblyInfoInputs.cache
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.AssemblyInfo.cs
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.csproj.CoreCompileInputs.cache
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.dll
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\refint\NotePad.Domain.dll
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\NotePad.Domain.pdb
+C:\Code\CSharp\NotePad\NotePad.Domain\obj\Debug\net7.0\ref\NotePad.Domain.dll

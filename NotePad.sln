@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad", "NotePad\NotePad.csproj", "{E921100A-76FC-43B6-9E25-E32B93347319}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{AA0574FB-70CA-4097-8602-F30A98CE457C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{43BE9368-FC8E-4A12-A2BF-C12FFD1CE879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad.Domain", "NotePad.Domain\NotePad.Domain.csproj", "{55B7463B-D908-431F-B3DA-CDC938272FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad.DAL", "NotePad.DAL\NotePad.DAL.csproj", "{27D3CD43-F87A-4030-85BB-081C5FDDCB31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E921100A-76FC-43B6-9E25-E32B93347319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E921100A-76FC-43B6-9E25-E32B93347319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E921100A-76FC-43B6-9E25-E32B93347319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E921100A-76FC-43B6-9E25-E32B93347319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B7463B-D908-431F-B3DA-CDC938272FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B7463B-D908-431F-B3DA-CDC938272FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B7463B-D908-431F-B3DA-CDC938272FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B7463B-D908-431F-B3DA-CDC938272FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D3CD43-F87A-4030-85BB-081C5FDDCB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D3CD43-F87A-4030-85BB-081C5FDDCB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D3CD43-F87A-4030-85BB-081C5FDDCB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D3CD43-F87A-4030-85BB-081C5FDDCB31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55B7463B-D908-431F-B3DA-CDC938272FFC} = {43BE9368-FC8E-4A12-A2BF-C12FFD1CE879}
+		{27D3CD43-F87A-4030-85BB-081C5FDDCB31} = {AA0574FB-70CA-4097-8602-F30A98CE457C}
+	EndGlobalSection
+EndGlobal
